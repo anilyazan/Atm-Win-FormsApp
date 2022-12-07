@@ -1,0 +1,12 @@
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\bin\Debug\AtmWinFormsApp.exe.config
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\bin\Debug\AtmWinFormsApp.exe
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\bin\Debug\AtmWinFormsApp.pdb
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.Form1.resources
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.Properties.Resources.resources
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.csproj.GenerateResource.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.exe
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.pdb
+C:\Users\anily\OneDrive\Masaüstü\C#\AtmWinFormsApp\AtmWinFormsApp\obj\Debug\AtmWinFormsApp.Form2.resources
